@@ -1,0 +1,1 @@
+npx esbuild app.jsx --bundle --outdir=www --watch --servedir=www

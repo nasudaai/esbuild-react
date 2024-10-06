@@ -12715,7 +12715,7 @@
   // app.jsx
   var import_react = __toESM(require_react());
   var import_server = __toESM(require_server_browser());
-  var Greet = () => /* @__PURE__ */ import_react.default.createElement("h1", null, "Hello, world!");
+  var Greet = () => /* @__PURE__ */ import_react.default.createElement("h1", null, "Hello, World!!!");
   console.log(import_server.default.renderToString(/* @__PURE__ */ import_react.default.createElement(Greet, null)));
 })();
 /*! Bundled license information:
